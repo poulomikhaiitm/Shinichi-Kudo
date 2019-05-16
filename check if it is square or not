@@ -1,0 +1,7 @@
+#Take values of length and breadth of a rectangle from user and check if it is square or not.
+L = int(input())
+B = int(input())
+if (L*B) == (L*L or B*B):
+        print('It is a square')
+else:
+        print('It is not square')
