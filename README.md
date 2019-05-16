@@ -1,1 +1,0 @@
-# Shinichi-Kudo
