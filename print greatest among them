@@ -1,0 +1,7 @@
+#Take two int values from user and print greatest among them.
+val1 = int(input('Enter first number'))
+val2 = int(input('Enter second number'))
+if val1 > val2:
+    print(val1) 
+else:
+    print(val2)
